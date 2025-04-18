@@ -1,0 +1,19 @@
+@import url(../stylesheets/base/_reset.css);
+@import url(../stylesheets/components/header.css);
+@import url(../stylesheets/components/hero-section.css);
+@import url(../stylesheets/components/products-section.css);
+
+:root {
+    --font-primary: 'Archivo', sans-serif;
+    --brand-color: #7ca2f4;
+    --dark-10: #121214;
+    --dark-20: #f3f7ff;
+    --dark-30: #ffffff; 
+}
+
+body {
+    overflow-x: hidden;
+    font-family: var(--font-primary);
+    background-color: var(--dark-30);
+    color: var(--dark-10);
+}

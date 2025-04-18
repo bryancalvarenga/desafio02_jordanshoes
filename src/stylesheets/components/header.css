@@ -1,0 +1,24 @@
+.header {
+    color: var(--dark-10);
+    background-color: var(--dark-20);
+    font-size: 14px;
+    height: 39px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .header {
+        font-size: 16px;
+        height: 41px;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .header {
+        font-size: 24px;
+        height: 64px;
+    }
+}
