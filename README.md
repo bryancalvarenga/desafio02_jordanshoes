@@ -11,6 +11,7 @@ Projeto desenvolvido como parte de um desafio do CodeLab para praticar HTML, CSS
 ## 🔗 Acesso
 
 1. Clone o repositório:
+   
    ```bash
    git clone https://github.com/bryancalvarenga/desafio02_jordanshoes.git
 
